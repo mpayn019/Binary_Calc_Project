@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1490125828 source:c:\users\matt\desktop\c++ projects\permutation_base_calc\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
